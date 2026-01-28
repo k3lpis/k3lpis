@@ -2,7 +2,7 @@
 
 I'm an Electrical and Computer Engineer, interested in embedded systems, programming and Linux. 
 
-- 🔧 Embedded C with STM32 
+- 🔧 Embedded C  
 - 🐍 Python for university projects and scripting
 - 🐧 Daily Linux user (Arch)
 
